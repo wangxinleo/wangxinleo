@@ -5,10 +5,10 @@
 如果你想聊聊【前端】【Node】, 可以给我[发邮件](mailto:wangxin.leo@outlook.com)
 
 <div>
-  <a href="https://github.com/qwerty541">
+  <a href="https://github.com/wangxinleo">
     <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wangxinleo&show_icons=true" />
   </a>
-  <a href="https://github.com/qwerty541">
+  <a href="https://github.com/wangxinleo">
     <img align="center" alt="Top languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinleo&layout=compact&hide=tsql" />
   </a>
 </div>
