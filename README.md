@@ -8,11 +8,11 @@
 
 2018 年初，我第一次踏入社会工作，正式开始了 “开发人员一块砖，哪里需要哪里搬” 的社畜生涯。我从 2018 年接手了公司一套非常古老的 BPM 系统 (**基于[IBM lotus/Domini](https://en.wikipedia.org/wiki/HCL_Domino) 开发，没有技术支持，公司丢失了大部分的技术文档，核心代码被加密无法解锁**)，实在无法忍受类 VB 式的编程模式，自行建立了 nodejs 中间层接口平台，建立跨域通讯，接口再也不用使用 [LS](https://en.wikipedia.org/wiki/LotusScript) 编写了；不堪忍受 90 年代风格的 UI 界面，也为了能让系统更加现代化，自行建立了 BPM 辅助管理平台用于配合 BPM 系统，设立流程看板、简单数据分析、热点地图等等我能想得到的功能。
 
-这些看似个人成果的实现，其实都离不开来自 **开源社区** 的巨大帮助。它帮助我更加潜心业务实现，传承优秀的代码风格；它让我惊叹代码的精妙，让我惊呼，哇塞，原来功能还能这样实现。
+这些看似个人成果的实现，其实都离不开来自 **开源社区** 的巨大帮助。它帮助我更加潜心业务实现，传承优秀的代码风格；让我惊叹，哇塞，原来代码还能这样写。
 
 这些年因为热爱、因为本身所在项目组的特殊性，必须具备十八般武艺，**全栈**就变成了生涯中必须面对的大题。而开源就成了成长之路中必须适应的生活方式。优秀优质的开源代码框架及其深层的实现原理让我们的二进制生命得以大放异彩。在这条路上其他人在开源之路上帮助了我们，希望我们也能通过开源软件帮助到其他人。
 
-最近我开启了新项目[wecode_init](https://github.com/wangxinleo/wecode_init)，这是一款 能够快速创建 全栈项目 的脚手架工具，现在还是 demo 阶段，欢迎各位开发者在[issue](https://github.com/wangxinleo/wecode_init/issues)中提出想法。
+最近我开启了新项目[wecode-init](https://github.com/wangxinleo/wecode-init)，这是一款 能够快速创建 全栈项目 的脚手架工具，现在还是 demo 阶段，欢迎各位开发者在[issue](https://github.com/wangxinleo/wecode-init/issues)中提出想法。
 
 ### 近期的我
 
@@ -27,7 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-- 🔭 我目前正在研究开发 [wecode_init](https://github.com/wangxinleo/wecode_init)
+- 🔭 我目前正在研究开发 [wecode-init](https://github.com/wangxinleo/wecode-init)
 - 🌱 我目前正在学习 commander
 - 👯 我正在寻找有关 [圣经脑图](https://gitee.com/wangxin_leo/knowledge-framework-for-bible) 的合作 --【暂时搁置,等待重启】
 - 💬 可以在 [这里](https://github.com/wangxinleo/wangxinleo/issues) 询问我
