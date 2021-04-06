@@ -1,6 +1,6 @@
-### :cn: Hi, I'm wangxinleo(w2code)
+### :cn: Hi, I'm wangxinleo
 
-Hi guys, this is wangxinleo(w2code), a Christian, a full-stack Developer, from china 🐾;
+Hi guys, this is wangxinleo, a Christian, a full-stack Developer, from china 🐾;
 
 ### About the recent
 
