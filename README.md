@@ -4,7 +4,9 @@ Hi guys, this is wangxinleo, a Christian, a full-stack Developer, from china üê
 
 ### About the recent
 
-Thank you for the interest in my work and now I have the entry in a company. The future may use more time I will work to accommodate new content and new environment. Open source will not stop, but I have more experience to think about my career direction. Thank you for your email.
+Thank you for the interest in my work and now I have the entry in a company. The future may use more time I will work to accommodate new content and new environment. Open source will not stop, but I have more experience to think about my career direction.
+
+Looking forward to meeting you again.
 
 ~~Over the April(2021), I resigned from a company that I worked for three years. Any body thought that it's crazy and advised me don't move. Because it's really a hard time now (2021),whether personal health or employment. This is a huge challenge to balance family pressure, interview and coding time hahaüòÇ.~~
 
