@@ -4,11 +4,13 @@ Hi guys, this is wangxinleo, a Christian, a full-stack Developer, from china �
 
 ### About the recent
 
-Over the April(2021), I resigned from a company that I worked for three years. Any body thought that it's crazy and advised me don't move. Because it's really a hard time now (2021),whether personal health or employment. This is a huge challenge to balance family pressure, interview and coding time haha😂.
+Thank you for the interest in my work and now I have the entry in a company. The future may use more time I will work to accommodate new content and new environment. Open source will not stop, but I have more experience to think about my career direction. Thank you for your email.
 
-Anyway, I am looking for job now. if it's unfortunate that I haven't found any yet (It's terrible to think about it💔), I might just keep myself as a freelancer(or continue studying) for a while.
+~~Over the April(2021), I resigned from a company that I worked for three years. Any body thought that it's crazy and advised me don't move. Because it's really a hard time now (2021),whether personal health or employment. This is a huge challenge to balance family pressure, interview and coding time haha😂.~~
 
-That's the reason why I hold to try to be a GitHub Developer to see if one day I can make a possible living from it while still focusing on my projects development 👵.
+~~Anyway, I am looking for job now. if it's unfortunate that I haven't found any yet (It's terrible to think about it💔), I might just keep myself as a freelancer(or continue studying) for a while.~~
+
+~~That's the reason why I hold to try to be a GitHub Developer to see if one day I can make a possible living from it while still focusing on my projects development 👵.~~
 
 Tribute to all who like developing open-source software ☺️.
 
