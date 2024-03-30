@@ -24,7 +24,7 @@ Tribute to all who like developing open-source software ☺️.
 
 - 🔭 I’m currently working on [wecode-init](https://github.com/wangxinleo/wecode-init)
 - 🌱 I’m currently learning commander
-- 👯 I’m looking to collaborate on [knowledge-framework-for-bible(圣经脑图)](https://wangxin_leo.gitee.io/knowledge-framework-for-bible/) --【paused,waiting for you】
+- 👯 I’m looking to collaborate on [knowledge-framework-for-bible(圣经脑图)](https://wangxinleo.github.io/knowledge-framework-for-bible/) 
 - 💬 Ask me about anything [here](https://github.com/wangxinleo/wangxinleo/issues)
 
 If you want to establish long-term contact with me, you can [Email me](mailto:wangxin.leo@outlook.com)
